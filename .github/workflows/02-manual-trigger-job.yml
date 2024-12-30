@@ -4,6 +4,7 @@ on:
       pull_request:
         branches:
         - main
+        ##changes for pull request.
 env:
   workspace-name: Vin-ML-Lab # name of the Azure Machine Learning workspace
   resource-group: rg-mlops-learn # name of the Azure resource group
